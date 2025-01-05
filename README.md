@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# EZ Brand
 
-## Getting Started
+Welcome to the EZ Brand project! This repository contains all the necessary code and resources for the EZ Brand application.
 
-First, run the development server:
+## Table of Contents
 
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+EZ Brand is a powerful tool designed to help businesses manage their brand assets efficiently. With EZ Brand, you can store, organize, and share your brand materials with ease.
+
+## Features
+
+- **Asset Management**: Easily upload, organize, and manage your brand assets.
+- **Collaboration**: Share assets with team members and collaborate in real-time.
+- **Security**: Keep your assets secure with advanced permission settings.
+
+## Installation
+
+To install EZ Brand, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/hax0-r/ez-brand.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd ez-brand
+    ```
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+To start using EZ Brand, run the following command:
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+This will start the application on `http://localhost:3000`.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+We welcome contributions to the EZ Brand project! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## License
 
-## Learn More
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Hosting
 
-To learn more about Next.js, take a look at the following resources:
+EZ Brand is hosted on multiple platforms to ensure reliability and performance. You can access the application through the following links:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Main Hosting](https://ezbrandbuilders.com)
+- [Backup Hosting](https://ezbrandbuilders.netlify.app)
