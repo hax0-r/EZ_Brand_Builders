@@ -6,8 +6,6 @@ Welcome to the EZ Brand project! This repository contains all the necessary code
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -17,34 +15,11 @@ EZ Brand is a powerful tool designed to help businesses manage their brand asset
 
 ## Features
 
-- **Asset Management**: Easily upload, organize, and manage your brand assets.
+- **Development Services**: We provide top-notch development services for both web and mobile applications.
+- **SEO Marketing**: Enhance your online presence with our expert SEO marketing services.
 - **Collaboration**: Share assets with team members and collaborate in real-time.
 - **Security**: Keep your assets secure with advanced permission settings.
-
-## Installation
-
-To install EZ Brand, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/hax0-r/ez-brand.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd ez-brand
-    ```
-3. Install the dependencies:
-    ```bash
-    npm install
-    ```
-
-## Usage
-
-To start using EZ Brand, run the following command:
-```bash
-npm run dev
-```
-This will start the application on `http://localhost:3000`.
+- **Additional Services**: We offer a range of other services to meet your business needs.
 
 ## Contributing
 
